@@ -17,7 +17,7 @@ I specialize in **full-stack development** with an unwavering passion for naviga
 - [Old World Of Tech Site](http://worldoftech.free.nf/) :date:
 
 ## Get in Touch :envelope:
-Feel free to reach out via email: :point_right: info@mesum.online
+Feel free to reach out via email: :point_right: mesum@worldoftech.company
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mesumbinshaukat&label=PROFILE+VIEWS)
 <!---
