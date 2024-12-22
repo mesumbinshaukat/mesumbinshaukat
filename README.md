@@ -7,14 +7,15 @@ I specialize in **full-stack development** with an unwavering passion for naviga
 **World of Tech** stands as a dynamic software company leading the charge in digital innovation. Our expertise spans a spectrum of cutting-edge services, encompassing web and app development, digital marketing, and a diverse array of online solutions. Word of Tech empowers businesses to thrive in the digital landscape. [Explore Our World](https://worldoftech.company)
 
 ## Explore My Portfolio :desktop_computer:
-- [Personal Portfolio](https://mesum.online)
-- [Local Company](https://worldoftech.company) :office: :pakistan:
-- [International Company](https://worldoftech.co) :factory:
-- [E-commerce Store](https://mesum.store) :convenience_store:
-- [Tech Blog](https://techbloggers.co) :memo:
-- [Soccer Project](http://nn-tech-rangers.000.pe/) :soccer:
-- [Vaccination Management System](http://vaccination-management-project.rf.gd/) :hospital:
-- [Old World Of Tech Site](http://worldoftech.free.nf/) :date:
+- [Personal Portfolio - WordPress](https://mesum.worldoftech.company)
+- [Local Company - WordPress](https://worldoftech.company) :office: :pakistan:
+- [International Company - WordPress](https://softwareproducts.io) :factory:
+- [Prime Vertex Softwares - WordPress](https://primevertexsoftwares.com) :desktop_computer:
+- [Event Sphere - MERN](https://github.com/mesumbinshaukat/EventSphere-Management-System) :sparkles:
+- [Accounting Ledger - MERN](https://github.com/mesumbinshaukat/Accounting-Ledger) :clipboard:
+- [Email Sender - PHP](https://github.com/mesumbinshaukat/Free-Mail-Sender) :email:
+- [Smart Freelancer Platform - PHP, Web3](https://github.com/mesumbinshaukat/Smart-Freelancer-Platform) :man_office_worker:
+- [Symphony Learning Management Portal - .Net MVC](https://github.com/mesumbinshaukat/EProject-Management-Portal) :european_post_office:
 
 ## Get in Touch :envelope:
 Feel free to reach out via email: :point_right: mesum@worldoftech.company
